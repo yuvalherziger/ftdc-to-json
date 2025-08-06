@@ -1,4 +1,4 @@
-BINARY_NAME=ftdc-to-json
+BINARY_NAME=ftdc-reader
 DIST_DIR=./dist
 SRC_DIR=./
 PKG=$(SRC_DIR)/...
